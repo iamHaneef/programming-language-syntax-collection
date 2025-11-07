@@ -57,7 +57,7 @@ int main() {
 File: python-syntax.txt
 Includes:
 
-# Example: Basic Python Program
+#Example: Basic Python Program
 print("Hello, World!")
 
 --------------------------------------------------------------------
