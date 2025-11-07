@@ -80,7 +80,7 @@ It’s especially useful for interview preparation and project groundwork.
 
 Handled By :
 
-🪶 Author
+🪶 Developer
 
 Muhamad Haneef J
 Student | Web Developer | Full Stack Learner
