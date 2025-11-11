@@ -1,4 +1,4 @@
-" Programming Language Syntax "
+Programming Language Syntax 
 
 A collection of basic syntax and code templates for popular programming languages — Java, C, Python, and JavaScript.
 This repository is designed for quick reference and revision of essential programming concepts and for Interview 
