@@ -1,6 +1,6 @@
 package Previous_Practise_Code;
 
-public class Java_All_Syntax {
+public class syntax {
     public static void main(String[] args) {
         System.out.println("Datatypes");
        /* byte num =5;
