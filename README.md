@@ -17,7 +17,7 @@ This repository includes basic syntax examples for:
 - Loops  
 - Functions / Methods  
 - Arrays / Lists  
-- Comments and structure  
+- Comments and structure 
 
 ---
 
