@@ -1,57 +1,42 @@
-# Programming Language Syntax Collection
+# Programming Syntax Collection
+
+## 📌 Overview
 
 A collection of basic syntax and code templates for common programming languages including Java, C, Python, and JavaScript.
 
-This repository is designed for quick reference and revision of fundamental programming concepts, especially for interview preparation.
+Designed for quick reference and revision of fundamental programming concepts.
 
 ---
 
-## 📘 Overview
+## ⚡ Topics Covered
 
-This repository includes basic syntax examples for:
-
-- Variable declaration  
-- Data types  
+- Variables and data types  
 - Input / Output  
 - Conditional statements  
 - Loops  
 - Functions / Methods  
 - Arrays / Lists  
-- Comments and structure 
 
 ---
 
 ## 💻 Languages Covered
 
-### 🟡 Java
-
+### Java
 ```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-}
+System.out.println("Hello, World!");
 ```
 
-### 🔵 C
-
+### C
 ```c
-#include <stdio.h>
-
-int main() {
-    printf("Hello, World!");
-    return 0;
-}
+printf("Hello, World!");
 ```
 
-### 🐍 Python
-
+### Python
 ```python
 print("Hello, World!")
 ```
 
-### 🟢 JavaScript
-
+### JavaScript
 ```javascript
 console.log("Hello, World!");
 ```
